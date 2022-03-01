@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fevv plain words to be considered by those of the army, or others that would have a Parliament that is chosen by the voyces of the people, to govern the three nations. Wherein is shewed unto them according to the Scriptures of truth, that a Parliament so chosen, are not like to govern for God, and the good of his people. Also something to the other part of the army, and the new committee, who turned out, or ownes the turning out of the late Parliament. / From a lover of the truth of God, and all his creatures, George Fox the younger.</title>
+            <author>Fox, George, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23179</idno>
+            <idno type="OCLC"> 19540070</idno>
+            <idno type="STC">Wing F2002</idno>
+            <idno type="STC">Interim Tract Supplement Guide 4152.f.19[11]</idno>
+            <idno type="STC">ESTC R40973</idno>
+            <idno type="EEBO-CITATION">99890629</idno>
+            <idno type="PROQUEST">ocm99890629</idno>
+            <idno type="VID">193352</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193352)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B6:2[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fevv plain words to be considered by those of the army, or others that would have a Parliament that is chosen by the voyces of the people, to govern the three nations. Wherein is shewed unto them according to the Scriptures of truth, that a Parliament so chosen, are not like to govern for God, and the good of his people. Also something to the other part of the army, and the new committee, who turned out, or ownes the turning out of the late Parliament. / From a lover of the truth of God, and all his creatures, George Fox the younger.</title>
+                  <author>Fox, George, d. 1661.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons, at the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:193352:1"/>
+            <pb facs="tcp:193352:1" rendition="simple:additions"/>
+            <p>A FEVV Plain Words To be conſidered by thoſe of the ARMY, Or others that would have a PARLIAMENT That is choſen by the voyces of the people, to govern the three Nations.</p>
+            <p>Wherein is ſhewed unto them according to the Scriptures of Truth, that a Parliament ſo choſen, are not like to govern for God, and the good of his PEOPLE.</p>
+            <p>Alſo ſomething to the other part of the Army, and the New Committee, who turned out, or ownes the turning out of the late Parliament.</p>
+            <p>
+               <hi>From a lover of the Truth of God, and all his Creatures,</hi> GEORGE FOX <hi>the younger.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Thomas Simmons,</hi> at the Bull and Mouth near Alderſgate, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:193352:2"/>
+            <pb n="1" facs="tcp:193352:2"/>
+            <p>
+               <hi>GReat are the cryings out of ſome of you of the Army, and the people of theſe Nations, concerning the diſsolving of the late Parliament, and it appears with a pretence of a very great zeal, that you have for Liberty, Equity, and Justice, and the gene<g ref="char:EOLhyphen"/>ral good of the three Nations, and you appear in a great fear, that if the people loſe the enjoying of Parliaments, that then they ſhall loſe their birth-right and their liberty, both as men, and as Christians; and that equity ſhall be laid aſide, and that the people muſt be ruled over by a tyrannical power of rebellious men, whoſe wills muſt be the Lawes that the people must obey. But you ſay if the Parliaments be choſen by the people, then in effect the people makes their own Lawes to be governed by, becauſe they choſe their Law-makers themſelves; and this is</hi> Englands <hi>Birth-right you ſay, and it is just and equall that the people ſhould enjoy it; and if they do not, then the preſervation of the people of God you ſay is loſt, and all good government will ceaſe, and the people will be made a prey upon, and ſo the three Nations will be ruined at once; and therefore ſeeing ſuch things are like to come to paſſe, if a Parliament choſen by the people be not upheld, ſome of you have ſaid, you will aſsert their Cauſe to the last drop of your blood.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Friends, It's good to be zealouſly affected in a good cauſe, and its good that the zeal be according to knowledg, &amp; its precious to have the zeal moderated with the wiſdom of God; therefore I exhort you in that life &amp; wiſdom which is of Chriſt, my Maſter, (who came not to de<g ref="char:EOLhyphen"/>ſtroymens lives, but to ſave them) that you would mind the dread &amp; fear of the Lord God, which is the beginning of wiſdom, &amp; be moderate, &amp; in coolneſſe conſider theſe things which I ſhall declare unto you, which in waiting upon the Lord, he by his ſpirit of wiſdom &amp; underſtanding opened in me, concerning the chuſing of Parliaments by the voyces of the people, and I know that you who truly deſires the good of Gods people, and that mercy &amp; juſtice might be eſtabliſhd by righteous Laws, (whereby equity and juſtice might be done unto all without reſpect of perſons) may clearly ſee with Gods witneſſe in you (which will an<g ref="char:EOLhyphen"/>ſwer to my words) that you are not like to ſee your deſires fulfilled by a Parliament that's choſen by the voyces of the people; mark the reaſons; becauſe the greater parts of the people that are admitted to chuſe Parliament men, are ſuch as do not truly deſire the good of Gods people, whatever they may profeſs in words; and therefore it being in their power to chuſe whom they will among themſelves (as it is)
+<pb n="2" facs="tcp:193352:3"/>becauſe moſt voyces carries it; they will chuſe ſuch men, as are like minded with themſelves, that's plain and according to the Scrip<g ref="char:EOLhyphen"/>tures, for the world loveth their own, as ſaith <hi>John;</hi> and now for proof, that the greater part are not ſuch as deſire the good of the Lords people, I would have you conſider, how that the Scripture ſaith, that the flock of Chriſt is a little flock; and Chriſt ſaith, <hi>Strait is the gate and narrow is the way that leadeth unto life, and few there be that find it; but broad is the way that leadeth unto deſtruction, and many there be that walk therein, and though Iſrael be as the ſand of the Sea, yet but a remnant ſhall be ſaved;</hi> now if ye believe theſe Scriptures, then may you ſee that a Parliament that is choſen by moſt voyces, are not like to act for God, and the good of his people; and it hath been the com<g ref="char:EOLhyphen"/>plaint of the ſobereſt and honeſteſt men in ſeveral Counties, when they ſhould have choſen Parliament men, that they could not chuſe ſuch a man as they judged would act ſingly for the good of the people of God and the Country, becauſe they were over-voted by the wild diſaffected people, who ſometimes have been ſtirred up by their Prieſts to vote for ſuch a man as the Prieſts knew would act for their covetous, oppreſſing ſelf-intereſt; and in ſome places ſome great proud men who deſired to be in Authority, hath feaſted the people, and ſent gifts to them with flatteries, thereby ſtriving to get the peo<g ref="char:EOLhyphen"/>ple to vote for them, promiſing them to ſtand for their Liberties, when it hath been but to ſerve their own ſelf-ends, and thus the people have been deceived; and if at any time in ſome Counties and places, the honeſt ſober people have choſen ſome honeſt men to ſerve in Par<g ref="char:EOLhyphen"/>liament, yet there being ſo many in the Parliament that have ſought their own honour and gain, that ſuch men as were honeſt, and would have made juſt Laws, and have acted for Equity and Liberty, they have been hindred; becauſe what is done in Parliament, is done by moſt voyces alſo, and the honeſt party in the Parliament having been the leſſer party, have been over voted alſo: the light in your conſciences will witneſs that theſe things are true.</p>
+            <p>And whereas it is ſaid, <hi>That it is</hi> Englands <hi>Birth right that the peo<g ref="char:EOLhyphen"/>ple ſhould chuſe their own Law-makers.</hi>
+            </p>
+            <p>I anſwer, then many thouſands of men in <hi>England</hi> have been wrong<g ref="char:EOLhyphen"/>ed of, and kept long from their Birth-right; for ſuch as are not Free<g ref="char:EOLhyphen"/>men of ſome Corporations, or have not free land of their own, are not permitted to chuſe Parliament men, (mark that) though they be farre more honeſt and underſtanding men then many that are free of ſuch Corporations, and have ſuch land; ſo that its but a part of the people
+<pb n="3" facs="tcp:193352:3"/>that muſt chuſe Law-makers; and further, he that hath free land worth forty ſhillings the year in ſeveral Counties, he may give his voyce in ſeveral Counties where his land lieth, for ſeveral Parliament men, when as he that hath land but in one County, cannot have the ſame priviledge, though he be a far more honeſt man; and he that's a free-man of that Corporation, that findes a Parliament man, or men; and hath free lands in the country alſo, he may chuſe both in the one, and other; but he that is not free of ſuch a place, he may not have the like priviledge, though he be more honeſter then the other; and this aroſe from the ſame ground, that negative voyces aroſe from; And it hath been the manner and cuſtome of <hi>England,</hi> to call and chuſe many wiſe men, after the fleſh, &amp; many mighty, and noble men (ſo called) to be Parliament men, that ſo we ſee the calling &amp; chuſing of Parliaments in <hi>England,</hi> hath bin exactly contrary to Gods calling, &amp; chuſing; Read 1 <hi>Cor.</hi> 1.26. (&amp; therefore ſuch Parliaments are not like to act for God &amp; the good of his people, but againſt them) But that which God hath called and choſen, ſhall confound and bring to nought the wiſe and the mighty, and the noble things (ſo called of the world) (and this the Lord will bring to paſs) that ſo no fleſh may glory in his preſence; Read 1 <hi>Cor.</hi> 1.27, 28, 29. And likewiſe the chuſing of Parliament men, according to the cuſtom of <hi>England</hi> (which is called its Birth-right) ſtands in reſpect of perſons, and not in equality; for the rich covetous oppreſſing men, who oppreſseth the poor, they have the only power to chuſe Law-makers, and they will chuſe to be ſure ſuch as will uphold them in their oppreſſion; and the poor man that is oppreſſed, though he have no power allowed him to chuſe, yet he muſt be ſubject to the Lawes which they make who are his oppreſſors, or elſe he is accoun<g ref="char:EOLhyphen"/>ted a Rebell; ſo what right think ye is the oppreſſed like to have, when his oppreſſors chuſe the men that are to be Judges of his cauſe; and thus the rich men oppreſs the poor, and draw them before their Judg<g ref="char:EOLhyphen"/>ment feats, as they did in <hi>james</hi> his dayes; <hi>James</hi> 2.6. Theſe things being conſidered, ye may ſee the unequalneſſe and partiality that hath been in chuſing of Parliaments, according to <hi>Englands</hi> cuſtom, and how unlike it is that a Parliament ſo choſen ſhould make <hi>England</hi> a free Nation, ſeeing the great oppreſsors of the land <hi>(viz.)</hi> Prieſts, and Lawyers, and the great wicked, covetous, perſecuting men are ſo much concerned in the chuſing them; ſo that if Parliaments ſo choſen ſhould continue, the people of the Lord are not like to be ſet free from their oppreſſion, (though Parliaments and Rulers have been made to do ma<g ref="char:EOLhyphen"/>ny good things by a power which many of them ſcarce knew) but the
+<pb n="4" facs="tcp:193352:4"/>Lord hath a further thing yet to do in the Nations, then either Prote<g ref="char:EOLhyphen"/>ctors or Parliaments would ſubmit unto; therefore the Lord hath thrown them by, but they had firſt a day of tryal given them, and now is the Lord trying others, and if they will not do his work, in breaking every yoke, and letting the oppreſsed go free, God will aſsuredly break them with a greater deſtruction then came upon thoſe before them; Therefore let your moderation be known unto all men, for the Lord is at hand; and thirſt not after blood, leſt the Lord give ye blood to drink; and we know that Kings, and Protectors, and Parliaments have made fair pretences, and have given themſelves fine titles, and have pleaded that they had a juſt right to, and a neceſſity for their authority, and ſought to get into the affections of the people by ſmooth words and large promiſes, to carry on their own deſign, but their hearts were not right before the Lord; and therefore he broke them, and their titles; and know that the people that fear God, they matter not titles, and high names, but they look for righteous actions to be brought forth; &amp; many ſees that a Parliament that was choſe by the moſt voyces of the outwardly rich people, were not like to act righteouſly; and therefore they are willing to wait to ſee what the Lord will do by others, and we ſee that people have been in great blindneſs, in contending for Par<g ref="char:EOLhyphen"/>liaments ſo choſen; ſo let this wiſdom be learned and lived in, which is better then the ſtrength of fools, who oft periſh in their paſſion and folly.</p>
+            <p>And now friends in the Army and Committee that have turned out the Parliament, dread ye the Lord God, and mind the equall, juſt, no<g ref="char:EOLhyphen"/>ble principle of God in you, which hath ſtirred againſt tyranny and oppreſſion, and make it not your buſineſs to declare onely for freedom, as ſome before you did, and did not the thing they declared for; but in the fear and wiſdom of the Lord, go ye on to act for the good of all his creatures, and ſeek not your own honours, but ſingly do the ſame both for your friends and enemies, that you would have them do for you if they were in authority as ye are; and untill ye come to this, ye are not like to proſper; the Lord abhorreth the lying, flattering, dou<g ref="char:EOLhyphen"/>ble, deceitful tongue and heart; and the people alſo have been wea<g ref="char:EOLhyphen"/>ried with fair words, becauſe the actions have been wanting that ſhould have accompanied the ſaid words.</p>
+            <p>Remember how you have cryed out againſt the oppreſſion of a for<g ref="char:EOLhyphen"/>ced maintenance for teachers, and now ye are tried, and have power given you to break that oppreſſion down, which ſome of you I ſay have deſired others to do; therefore abuſe not your power, but leave
+<pb n="5" facs="tcp:193352:4" rendition="simple:additions"/>the people free to maintain their own Teachers; (mark) The Mini<g ref="char:EOLhyphen"/>ſters that Chriſt ſends forth, they have no need of you in this parti<g ref="char:EOLhyphen"/>cular, as to provide food and raiment for them, for their heavenly Fa<g ref="char:EOLhyphen"/>ther knowes that they have need of thoſe things, and provides it for them without an outward Law to compell it, that ſo they lack not any thing; and that Teacher that will not conſent to this, he ſerveth not the Lord Jeſus, but his own belly; and that is his God; and ſuch a one can never profit the people, and (mark) if ye ſhould take away tythes, &amp; command by a Law any other maintenance from us for Tea<g ref="char:EOLhyphen"/>chers, that would be the ſame Tyranny and oppreſſion in the nature and ground of it, that tithes were, and we muſt bear our teſtimony againſt it alſo, and our lives, or eſtates, or both muſt yet ſuffer; therefore if ye do thus, you leave us in the ſame bondage as before; And let Lawes be provided, that are righteous, juſt, and equall, according to that of God in the conſcience, and let ſuch be impowred to execute them that will hear and determine cauſes freely, according to righteouſneſs; and let cauſes of difference between man and man be heard in every Coun<g ref="char:EOLhyphen"/>ty, and when by plain proof of 2 or 3 witneſſes (without tranſgreſſing Chriſts doctrine) it come to be manifeſted who have done the wrong, then let the executioners of the Law be impowred to cauſe the party or parties, to reſtore for the wrong that is done according to equity, that ſo this abominable oppreſſion about the Law &amp; Lawyers may be broken down; and thunder down all ungodly gamings, and ſhowes, whereby the fooliſh wilde people are cheated of their monies, and ſpends away their precious time to the diſhonour of the pure God.</p>
+            <p>And let the people of the Lord have their liberty, to ſpeak his word freely, where and when his ſpirit leads them and gives them utterance; and let the Law take hold on ſuch as would wrong any mans perſon or eſtate.</p>
+            <p>And let the dread of the Lord be upon your ſpirits, and wait in his light, to receive his wiſdom, that therein you may be ordered in the particular, and in it order all things to his glory, and that ye may re<g ref="char:EOLhyphen"/>move all that which is ſtanding, which is contrary to the will of God.</p>
+            <p>And meddle not to eſtabliſh Religion and Teachers by an outward Law, for verily if ye do, ye will be broken; Let that alone to Chriſt, whoſe work it is: Conſider all that went before you of late years, that would be medling with ſuch things, the Lord broke them to pieces, and they were warned in their day, as ye are now. And let not your many victories which ye have obtained, nor your being preſerved in ſo many overturnings (wherein ye have been made Inſtrumental) nor your
+<pb n="6" facs="tcp:193352:5"/>ſtrength, courage, nor wiſdom puff ye up; for thus ſaith the Lord God, even as earthen veſſels are in the hands of a Potter, (who have power to daſh them one againſt another, until they be broken, or to break them in pieces with another thing, that appears more weake then they) even ſo are you in my hand ſaith the Lord; and I can con<g ref="char:EOLhyphen"/>found your wiſdom, and take away your courage, and ſmite you with faintneſs, and dauntedneſs of ſpirit in the twinkling of an eye; there<g ref="char:EOLhyphen"/>fore ſeek not your ſelves, for if you do, your day ſhall be but ſhort.</p>
+            <p>Remember you of the Army had power once before to have acted for the good of your Nation, but the ſubtilty in ſome who ſought themſelves (whom God hath ſince blaſted) beguiled you, and (mark) ſome of you ſold your power for Commiſſions, and others for nothing but flattering words, and ſo betrayed your own integrity, and the cauſe of your Country; and now you have power again, do not abuſe it; ſerve not the luſts nor the ſelf-intereſt of any man or men whatſoever, but ſerve the Lord and your Generation faithfully; mark, if you con<g ref="char:EOLhyphen"/>ſent to deceit, and make an agreement with death, through fear or any ſelf-end whatſoever, God will break that agreement, and bring ſhame upon you for it. And Friends, there is a lofty, proud, ſelf-ſeeking ſpi<g ref="char:EOLhyphen"/>rit yet amongſt many of you, which if you ceaſe not from, it will be the cauſe of your deſtruction; and truly, if you provoke the Lord to break you, it will be more heavie &amp; terrible then the breaking of thoſe that were before you; therefore let the Lord be minded, and linger not about things, but be valiant, and act faithfully for the juſt liberty of all, without reſpect of perſons, and let revenge be forgotten, and this will overcome your enemies, and make you truly honourable in the hearts of all people. This is your day, priſe it, And let your deeds make it manifeſt to the people, that you have not ſought your ſelves, (in this which you have done) but the general good of all, and then you will need the fewer words to prove your enemies lyars, who have accuſed you to be ſelf-ſeekers. And now woe is coming both upon Teachers, Rulers and people that are in the good words, but out of the good deeds and life; and the Eternal God who is the light, will break, ſhatter, confound and over-turn, untill the good life come up and be ſet on the top of all; and now the name of truth only will be too nar<g ref="char:EOLhyphen"/>row a covering, for it is the nature of truth it ſelf that will be able to cover, and to be a ſure hiding-place in this the day of the wrath of the Lamb.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:193352:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
